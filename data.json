@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "surname": "Doe",
+    "points_earned": 150
+  },
+  {
+    "id": 2,
+    "name": "Alice",
+    "surname": "Smith",
+    "points_earned": 200
+  },
+  {
+    "id": 3,
+    "name": "Bob",
+    "surname": "Johnson",
+    "points_earned": 75
+  },
+  {
+    "id": 4,
+    "name": "Emily",
+    "surname": "Davis",
+    "points_earned": 300
+  },
+  {
+    "id": 5,
+    "name": "Michael",
+    "surname": "Wilson",
+    "points_earned": 100
+  },
+  {
+    "id": 6,
+    "name": "Olivia",
+    "surname": "Taylor",
+    "points_earned": 180
+  },
+  {
+    "id": 7,
+    "name": "James",
+    "surname": "Brown",
+    "points_earned": 220
+  },
+  {
+    "id": 8,
+    "name": "Emma",
+    "surname": "Jones",
+    "points_earned": 90
+  },
+  {
+    "id": 9,
+    "name": "William",
+    "surname": "Wilson",
+    "points_earned": 280
+  },
+  {
+    "id": 10,
+    "name": "Sophia",
+    "surname": "Walker",
+    "points_earned": 160
+  },
+  {
+    "id": 11,
+    "name": "Daniel",
+    "surname": "Anderson",
+    "points_earned": 130
+  },
+  {
+    "id": 12,
+    "name": "Mia",
+    "surname": "Thompson",
+    "points_earned": 240
+  },
+  {
+    "id": 13,
+    "name": "Alexander",
+    "surname": "Harris",
+    "points_earned": 110
+  },
+  {
+    "id": 14,
+    "name": "Ava",
+    "surname": "Clark",
+    "points_earned": 190
+  },
+  {
+    "id": 15,
+    "name": "Joseph",
+    "surname": "Lewis",
+    "points_earned": 250
+  },
+  {
+    "id": 16,
+    "name": "Charlotte",
+    "surname": "White",
+    "points_earned": 120
+  },
+  {
+    "id": 17,
+    "name": "Henry",
+    "surname": "Walker",
+    "points_earned": 210
+  },
+  {
+    "id": 18,
+    "name": "Grace",
+    "surname": "Kelly",
+    "points_earned": 140
+  },
+  {
+    "id": 19,
+    "name": "Ethan",
+    "surname": "Baker",
+    "points_earned": 170
+  },
+  {
+    "id": 20,
+    "name": "Lily",
+    "surname": "King",
+    "points_earned": 200
+  }
+]
